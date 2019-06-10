@@ -1,2 +1,2 @@
 # Gimbal
-All the code for my gimbal
+All the code and 3D drawings for my gimbal
